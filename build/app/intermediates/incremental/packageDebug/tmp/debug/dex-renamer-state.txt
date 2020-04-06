@@ -1,0 +1,4 @@
+#Fri Apr 03 21:43:00 WAT 2020
+base.0=C\:\\Users\\BQ WorkStation 1\\Desktop\\Flutter\\calculator_app\\build\\app\\intermediates\\dex\\debug\\mergeDexDebug\\out\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
